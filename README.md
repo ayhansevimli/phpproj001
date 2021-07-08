@@ -19,6 +19,9 @@ git clone https://github.com/ayhansevimli/phpproj001.git
 
 cd phpproj001
 
+browse link in below
+
+http://localhost/phpproj001/index.php
 
 
 

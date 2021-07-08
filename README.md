@@ -7,6 +7,13 @@ To complete this quickstart:
 
 * Install Git
 * Install PHP (https://www.php.net/manual/en/install.php)
+* Download Built-in web server ()
+
+https://www.php.net/manual/en/features.commandline.webserver.php
+
+https://windows.php.net/download/
+
+VS16 x64 Non Thread Safe
 
 
 # Steps:
@@ -19,9 +26,9 @@ git clone https://github.com/ayhansevimli/phpproj001.git
 
 cd phpproj001
 
-browse link in below
+C:\Utils\DevOps\Language-Runtime\php\php-8.0.8-nts-Win32-vs16-x64>php -S 127.0.0.1:8000 C:\Utils\DevOps\Language-Runtime\php\phpproj001\index.php
 
-http://localhost/phpproj001/index.php
+browse link in below
 
 
 
